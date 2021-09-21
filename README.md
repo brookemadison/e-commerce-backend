@@ -41,6 +41,8 @@ A backend for an e-commerce website that uses the latest technology so the clien
 
 ## Walkthrough
 
+https://youtu.be/hS9vdmTaxjA
+
 ## Contributing 
 
 ### Brooke Madison👩🏽‍💻: [Github](https://github.com/brookemadison)
